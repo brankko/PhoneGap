@@ -1,0 +1,44 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: #19831E;	
+
+}
+
+
+.font_style_one{
+font-family: 'Arimo', sans-serif;
+font-size:150px;
+color: #DDE2E7;
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+
+}
+
+.font_class_two{
+font-family: 'Arimo', sans-serif;
+font-size:40px;
+color: #DDE2E7;
+
+}
+
+
+.container{
+	text-align: center ;
+	width: auto;
+	background-color:#C63D1D;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+
+
+h1, p{
+	margin: 0;
+}
+
+.img-responsive{
+	width:200px;
+	height:200px;
+	border-radius:50%;
+}
+
